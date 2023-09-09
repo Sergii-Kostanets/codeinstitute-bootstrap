@@ -194,3 +194,17 @@ body{
     background-color: #df4929;
     border-color: #df4929;
 }
+
+/* Mailchimp */
+
+/* #mc_embed_signup {
+    background:#fff; 
+    false;
+    clear:left; 
+    font:14px Helvetica,Arial,sans-serif; 
+    width: 600px;
+} */
+
+#mc_embed_signup form {
+    margin: 0 20px 20px 0 !important;
+}
